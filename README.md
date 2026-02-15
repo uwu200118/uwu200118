@@ -46,7 +46,21 @@ $\color{rgba(170, 156, 156)}{\textsf{lorem ipsum}}$
 </p>
 
 <p align="center">
-$\color{rgba(49, 43, 43)}\LARGE{\textsf{lorem ipsum}}$
+$\color{rgba(49, 43, 43)}\LARGE{\textsf{DO NOT INTERACT}}$
+</p>
+<p align="center">
+$\color{rgba(170, 156, 156)}{\textsf{lorem ipsum}}$
+</p>
+
+<p align="center">
+$\color{rgba(49, 43, 43)}\LARGE{\textsf{WHERE TO FIND ME}}$
+</p>
+<p align="center">
+$\color{rgba(170, 156, 156)}{\textsf{lorem ipsum}}$
+</p>
+
+<p align="center">
+$\color{rgba(49, 43, 43)}\LARGE{\textsf{MAIN FANDOMS}}$
 </p>
 <p align="center">
 $\color{rgba(170, 156, 156)}{\textsf{lorem ipsum}}$
