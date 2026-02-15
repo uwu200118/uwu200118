@@ -9,6 +9,10 @@ $\color{rgba(255, 00, 00)}\LARGE{\textsf{WORK IN PROGRESS}}$
 </p>
 
 <p align="center">
+$\color{rgba(170, 156, 156)}{\textsf{**yes, this profile was created just for pony.town info... ૮ ․ ․ ྀིა**}}$
+</p>
+
+<p align="center">
 $\color{rgba(49, 43, 43)}\LARGE{\textsf{ABOUT}}$
 </p>
 
@@ -20,9 +24,6 @@ $\color{rgba(170, 156, 156)}{\textsf{she / he / xe / ve}}$
 </p>
 <p align="center">
 $\color{rgba(170, 156, 156)}{\textsf{20}}$
-</p>
-<p align="center">
-$\color{rgba(170, 156, 156)}{\textsf{**yes, this profile was created just for pony.town info... ૮ ․ ․ ྀིა**}}$
 </p>
 
 <p align="center">
