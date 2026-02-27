@@ -9,7 +9,7 @@ $\color{rgba(255, 00, 00)}\LARGE{\textsf{WORK IN PROGRESS}}$
 </p>
 
 <p align="center">
-$\color{rgba(170, 156, 156)}{\textsf{**yes, this profile was created just for pony.town info... ૮ ․ ․ ྀིა**}}$
+$\color{rgba(133, 34, 21)}{\textsf{**yes, this profile was created just for pony.town info... ૮ ․ ․ ྀིა**}}$
 </p>
 
 <p align="center">
