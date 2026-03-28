@@ -1,8 +1,3 @@
-<p align="center">
-$\color{rgba(255, 00, 00)}\LARGE{\textsf{WORK IN PROGRESS}}$
-</p>
-
-
 
 <p align="center">
   <img src="https://64.media.tumblr.com/c1b6f432b5a5ca5ca0733fba64f68e3f/794d1ba06cddd4cf-80/s400x600/353027e06c8e10dc277cebfd30dcf2e48fd061ca.pnj"/>
